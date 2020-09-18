@@ -17,6 +17,5 @@ Dependencies:
 To use the learned polcies reported in the paper you can run:
 ```
 python TestLearnedAgent.py --load_path best_policy/policy-TSP20-epoch-189.pt --n_points 20 --test_size 1 --render 
-
 ```
 where ``` load_path ``` can be replaced with one of the policies in /best_policy. 
