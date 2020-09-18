@@ -11,3 +11,6 @@ Dependencies:
 - Apex
 - tqdm
 - pyconcorde
+
+## How to run it?
+
