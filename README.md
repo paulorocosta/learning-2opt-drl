@@ -9,3 +9,4 @@ Dependencies:
 - Numpy
 - Matplotlib
 - Apex
+- tqdm
