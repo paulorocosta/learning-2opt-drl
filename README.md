@@ -12,7 +12,7 @@ Dependencies:
 - tqdm
 - pyconcorde
 
-## How to run it?
+## How to test it?
 
 To use the learned polcies reported in the paper you can run:
 ```
