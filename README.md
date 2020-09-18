@@ -10,3 +10,4 @@ Dependencies:
 - Matplotlib
 - Apex
 - tqdm
+- pyconcorde
