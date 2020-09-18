@@ -23,3 +23,5 @@ where ``` load_path ``` can be replaced with one of the policies in /best_policy
 ## Results
 
 Learned policy on a TSP with 50 nodes:
+
+![Alt Text](data/tsp50.gif)
