@@ -12,6 +12,20 @@ Dependencies:
 - tqdm
 - pyconcorde
 
+
+## How to train?
+
+To train the model you can run:
+
+For TSP instances with 20 nodes:
+```
+python PGTSP20.py
+```
+For TSP instances with 50/100 nodes (default 50 nodes):
+```
+python PGTSP50_100.py
+```
+
 ## How to test it?
 
 To use the learned polcies reported in the paper you can run:
