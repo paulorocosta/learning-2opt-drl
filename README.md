@@ -13,7 +13,7 @@ Dependencies:
 - pyconcorde
 
 
-## How to train?
+## How to train it?
 
 To train the model you can run:
 
