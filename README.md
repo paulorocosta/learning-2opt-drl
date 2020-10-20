@@ -3,6 +3,7 @@
 
 Implementation of the Policy Gradient algorithm for learning 2-opt improvement heuristics, following: 
 http://proceedings.mlr.press/v129/costa20a/costa20a.pdf
+
 https://arxiv.org/abs/2004.01608 
 
 Dependencies: 
