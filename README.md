@@ -1,5 +1,5 @@
 # Learning 2-opt Heuristics for the TSP via Deep Reinforcement Learning
-
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text= Check%out%this %paper%on%learning%2-opt%heuristics%with%DRL&url=https://github.com/paulorocosta/learning-2opt-drl)
 
 Implementation of the Policy Gradient algorithm for learning 2-opt improvement heuristics, following https://arxiv.org/abs/2004.01608
 
